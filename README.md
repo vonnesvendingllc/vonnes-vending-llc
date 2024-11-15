@@ -14,7 +14,7 @@ The website for Vonne's Vending LLC includes:
 
 ## How to View the Site
 
-The website is hosted on GitHub Pages. You can view it at: [https://vonnes-vending-llc.github.io/vonnes-vending-llc/](https://vonnes-vending-llc.github.io/vonnes-vending-llc/) (replace "your-username" with your GitHub username).
+The website is hosted on GitHub Pages. You can view it at: [https://vonnesvendingllc.github.io/vonnes-vending-llc/](https://vonnes-vending-llc.github.io/vonnes-vending-llc/) (replace "your-username" with your GitHub username).
 
 ## Repository Files
 
